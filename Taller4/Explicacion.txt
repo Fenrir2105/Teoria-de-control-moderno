@@ -1,0 +1,4 @@
+Los archivos se dividen en:
+  1. Practica_control_4.m y practica_control_4_2.m son las replicas del codigo de la guia en MATLAB
+  2. practica_control_4.py y grafica.py son la traduccion del codigo de ambas partes a Python y el codigo que genera el csv
+  3. senal_piecewise.csv es el csv que contiene los datos de la senal aleatoria.
